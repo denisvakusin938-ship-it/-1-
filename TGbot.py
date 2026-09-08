@@ -5,7 +5,7 @@ import asyncio
 import nest_asyncio
 nest_asyncio.apply()
 
-BOT_TOKEN = "8748160951:AAGRfzaSrbUAnh3sCLAKgmZMgwmdlVLfos4"
+BOT_TOKEN = ""
 
 BIOGRAPHIES = {
     "demina": "Ирина Демина — Великий биолог и по совместительству барбос",
